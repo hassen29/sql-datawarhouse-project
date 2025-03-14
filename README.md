@@ -1,12 +1,12 @@
 
-## 📖 Project Overview
+## Project Overview
 This project involves:
 
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+ This repository is an excellent resource for professionals and students looking to showcase expertise in:
 - SQL Development
 - Data Architect
 - Data Engineering  
