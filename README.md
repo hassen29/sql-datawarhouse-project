@@ -1,6 +1,5 @@
----
-## 📖 Project Overview
 
+## 📖 Project Overview
 This project involves:
 
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
@@ -14,8 +13,6 @@ This project involves:
 - ETL Pipeline Developer  
 - Data Modeling  
 - Data Analytics  
-
----
 
 # Data Warehouse and Analytics Projects
 
